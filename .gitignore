@@ -1,0 +1,6 @@
+settings.h
+*.b#?
+*.s#?
+*.scr
+**/CAMOutputs
+**/.DS_Store
